@@ -1,0 +1,284 @@
+body {
+    background-image: url("../images/b_coffee2.jpg");
+    width: auto;
+    margin: 50px auto;
+    top: 0;
+}
+
+b {
+    color: #81B587;
+}
+
+#data {
+    background-image: url("../images/b_input1.png");
+    position: absolute;
+    top: 0;
+    right: 30%;
+    width: 845px;
+    height: 25px;
+}
+
+#home img {
+    width: auto;
+    right: 30%;
+    margin: 40px 1px;
+    height: 50px;
+}
+
+#menu img {
+    position: absolute;
+    width: 845px;
+    top: 100px;
+}
+
+#logo {
+    margin: -10px auto;
+}
+
+#thumb {
+    border: 1px dashed black;
+    background-repeat: round;
+    height: 263px;
+    margin: 10px auto;
+}
+
+#left {
+    float: left;
+    margin: 110px auto;
+}
+
+#right {
+    float: right;
+    margin: 110px auto;
+}
+
+#about {
+    left: auto;
+    width: 250px;
+    height: 500px;
+    margin: auto 20px;
+}
+
+#vision {
+    left: auto;
+    width: 250px;
+    height: 500px;
+    margin: -500px 282px;
+}
+
+#news {
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: auto 553px;
+}
+
+#content img {
+    position: absolute;
+    width: 837px;
+    margin: -200px auto;
+}
+
+#menu2 {
+    position: absolute;
+    margin: -120px auto;
+    top: 1000px;
+}
+
+.follow {
+    float: right;
+    margin: -120px auto;
+}
+
+.text {
+    color: #D0C8B3;
+}
+
+#spacer {
+    border: 1px dashed black;
+    margin: 10px auto;
+}
+
+#img_about {
+    left: auto;
+    width: auto;
+    height: 500px;
+}
+
+#aboutme {
+    right: auto;
+    width: 500px;
+    height: 500px;
+    margin: -500px 280px;
+}
+
+#education2 {
+    left: auto;
+    width: 250px;
+    height: 500px;
+    margin: 270px 20px;
+}
+
+#design {
+    right: auto;
+    width: 500px;
+    height: 500px;
+    margin: -770px 350px;
+}
+
+#experience {
+    right: auto;
+    width: 500px;
+    height: 500px;
+    margin: 465px -280px;
+}
+
+#design2 {
+    left: auto;
+    width: 250px;
+    height: 500px;
+    margin: -450px 282px;
+}
+
+#design3 {
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: -516px 553px;
+}
+
+#content2 img {
+    position: absolute;
+    width: 837px;
+    margin: 580px auto;
+}
+
+.follow2 {
+    float: right;
+    margin: 650px auto;
+}
+
+#folio {
+    left: auto;
+    width: 250px;
+    height: 500px;
+    margin: 10px 10px;
+}
+
+#gallery {
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: -510px auto;
+}
+
+#arrow {
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: 510px auto;
+}
+
+#artgallery {
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: -40px 50px;
+}
+
+#left_p {
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: -1010px 700px;
+}
+
+#content3 img {
+    position: absolute;
+    width: 837px;
+    margin: 590px auto;
+}
+
+.follow3 {
+    float: right;
+    margin: 660px auto;
+}
+
+#services {
+    left: auto;
+    width: 500px;
+    height: 250px;
+    margin: 30px 0;
+}
+
+#img_services {
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: -760px 553px;
+}
+
+#content4 img {
+    position: absolute;
+    width: 837px;
+    margin: 800px auto;
+}
+
+.follow4 {
+    float: right;
+    margin: 870px auto;
+}
+
+#contentme {
+    left: auto;
+    width: 500px;
+    height: 250px;
+    margin: 30px 0;
+}
+
+#img_contact {
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: -270px 553px;
+}
+
+#contentme h1 {
+    color: green;
+}
+
+#contentme h1 b {
+    color: #D78829;
+}
+
+#message{
+    margin: 30px 0;
+}
+
+#message .name img {
+    width: 274px;
+    height: 50px;
+}
+
+#message .name2 img {
+    width: 830px;
+    height: 150px;
+}
+
+#send{
+    right: auto;
+    width: 250px;
+    height: 500px;
+    margin: 0 550px;
+}
+
+#content5 img {
+    position: absolute;
+    width: 837px;
+    margin: -490px auto;
+}
+
+.follow5 {
+    float: right;
+    margin: -420px auto;
+}
